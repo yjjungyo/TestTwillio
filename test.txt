@@ -4,3 +4,5 @@ test
 main_b branch is created.
 
 main_b is modified after main is modified.
+
+main_b is modified again
